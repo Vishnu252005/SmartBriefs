@@ -1,6 +1,6 @@
 ## Article Summarizer
 
-Simplify your reading with Summize, an open-source article summarizer </br>
+Simplify your reading with Smartbrief, an open-source article summarizer </br>
 that transforms lengthy articles into clear and concise summaries.😍💖
 
 - [Live Preview](https://article-summarize.netlify.app/)
