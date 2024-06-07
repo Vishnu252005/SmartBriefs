@@ -6,7 +6,9 @@ that transforms lengthy articles into clear and concise summaries.😍💖
 - [Live Preview](https://smartBriefs.vercel.app/)
 
 
-![Article Summarizer](https://i.ibb.co/3fRgMgg/Screenshot-2023-04-23-121003.png)
+![Article Summarizer](https://github.com/Vishnu252005/SmartBriefs/assets/141705372/32f8c5a1-f1f8-4c8c-b0a9-21bf7121abaa)
+
+
 
 ## Introduction
 An Article Summarizer Application using OpenAI's GPT model.
